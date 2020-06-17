@@ -1,0 +1,8 @@
+C:\Users\William\source\repos\ContaAzul\ContaAzul\bin\Debug\netstandard1.4\ContaAzul.deps.json
+C:\Users\William\source\repos\ContaAzul\ContaAzul\bin\Debug\netstandard1.4\ContaAzul.dll
+C:\Users\William\source\repos\ContaAzul\ContaAzul\bin\Debug\netstandard1.4\ContaAzul.pdb
+C:\Users\William\source\repos\ContaAzul\ContaAzul\obj\Debug\netstandard1.4\ContaAzul.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ContaAzul\ContaAzul\obj\Debug\netstandard1.4\ContaAzul.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ContaAzul\ContaAzul\obj\Debug\netstandard1.4\ContaAzul.AssemblyInfo.cs
+C:\Users\William\source\repos\ContaAzul\ContaAzul\obj\Debug\netstandard1.4\ContaAzul.dll
+C:\Users\William\source\repos\ContaAzul\ContaAzul\obj\Debug\netstandard1.4\ContaAzul.pdb

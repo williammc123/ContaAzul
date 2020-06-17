@@ -1,0 +1,5 @@
+C:\Users\William\source\repos\ContaAzul\ContaAzul.Infra\bin\Debug\netstandard1.4\ContaAzul.Infra.deps.json
+C:\Users\William\source\repos\ContaAzul\ContaAzul.Infra\bin\Debug\netstandard1.4\ContaAzul.Infra.dll
+C:\Users\William\source\repos\ContaAzul\ContaAzul.Infra\obj\Debug\netstandard1.4\ContaAzul.Infra.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ContaAzul\ContaAzul.Infra\obj\Debug\netstandard1.4\ContaAzul.Infra.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ContaAzul\ContaAzul.Infra\obj\Debug\netstandard1.4\ContaAzul.Infra.AssemblyInfo.cs

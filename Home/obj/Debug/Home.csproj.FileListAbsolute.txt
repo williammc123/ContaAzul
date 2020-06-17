@@ -1,0 +1,9 @@
+C:\Users\William\source\repos\ContaAzul\Home\bin\Debug\Home.exe
+C:\Users\William\source\repos\ContaAzul\Home\bin\Debug\Home.pdb
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.Dash.resources
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.exe
+C:\Users\William\source\repos\ContaAzul\Home\obj\Debug\Home.pdb

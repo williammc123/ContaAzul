@@ -1,0 +1,9 @@
+C:\Users\William\source\repos\ContaAzul\Validacao\bin\Debug\netcoreapp2.1\Validacao.deps.json
+C:\Users\William\source\repos\ContaAzul\Validacao\bin\Debug\netcoreapp2.1\Validacao.dll
+C:\Users\William\source\repos\ContaAzul\Validacao\bin\Debug\netcoreapp2.1\Validacao.pdb
+C:\Users\William\source\repos\ContaAzul\Validacao\obj\Debug\netcoreapp2.1\Validacao.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ContaAzul\Validacao\obj\Debug\netcoreapp2.1\Validacao.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ContaAzul\Validacao\obj\Debug\netcoreapp2.1\Validacao.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\ContaAzul\Validacao\obj\Debug\netcoreapp2.1\Validacao.AssemblyInfo.cs
+C:\Users\William\source\repos\ContaAzul\Validacao\obj\Debug\netcoreapp2.1\Validacao.dll
+C:\Users\William\source\repos\ContaAzul\Validacao\obj\Debug\netcoreapp2.1\Validacao.pdb

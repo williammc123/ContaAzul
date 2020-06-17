@@ -1,0 +1,12 @@
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.AssemblyInfo.cs
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\bin\Debug\netcoreapp2.1\Conta.Azul.Dominio.deps.json
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\bin\Debug\netcoreapp2.1\Conta.Azul.Dominio.dll
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\bin\Debug\netcoreapp2.1\Conta.Azul.Dominio.pdb
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\bin\Debug\netcoreapp2.1\Validacao.dll
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\bin\Debug\netcoreapp2.1\Validacao.pdb
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.csproj.CopyComplete
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.dll
+C:\Users\William\source\repos\ContaAzul\Conta.Azul.Dominio\obj\Debug\netcoreapp2.1\Conta.Azul.Dominio.pdb
